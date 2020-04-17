@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-tcb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TCB deployer plugin for Hexo",
   "main": "index.js",
   "directories": {
