@@ -56,7 +56,7 @@ You can get it from here.[Tencent Cloud Console](https://console.cloud.tencent.c
 ## Help 
 * [什么是云开发静态网站](https://cloud.tencent.com/developer/article/1611257)
 * [如何在云开发静态托管绑定静态域名](https://cloud.tencent.com/developer/article/1613278)
-* [将你的 Hexo 部署到云开发静态托管](https://vxuu.com/hexo-deployer-tcb)
+* [将你的 Hexo 部署到云开发静态托管](https://vxuu.com/archives/2020/32ew2k.html)
 
 
 ## License
